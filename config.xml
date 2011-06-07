@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.bowkett.template"
+	id		= "com.chrome.app.[number starting from 1 - will go up each time a request is made]"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>[This should be taken from webpage title or give the user the option to enter their own title]</name>
 
 	<description>
-		This is the template.
+		Created with the Chrome App Maker Extension. [or allow the user to enter their own]
 	</description>
 
-	<author href="http://www.bowkett.org.uk"
-		email="directapps@bowkett.org.uk">
-		Mr Bowkett
+	<author href="[This should be taken from the webpage URL or allow the user to enter their own]"
+		email="apps@chromeappmaker.com">
+		Chrome App Maker
 	</author>
 
 	<gap:platforms>
